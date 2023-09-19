@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with React Features.
 - 💬 Ask me about C++, Javascript, Python, React, Cybersecurity, UI, UX
 - 📫 How to reach me: mabdullahcoding@gmail.com
-- ⚡ Fun fact: I'm  lazy
+- ⚡ Fun fact: Sometimes I'm lazy, sometimes I got beast focus.
 
