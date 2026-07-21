@@ -1,10 +1,9 @@
-### Hi there 👋
+# Hi there, I'm Abdullah 👋
 
-- 🔭 I’m working on a social web app based on React, learning ML, Data Interaction also improving my problem solving skills.
-- 🌱 I’m learning Data Structure and Algorithms, Tensorflow, ML, AI.
-- 👯 I’m looking to collaborate on ML Project.
-- 🤔 I’m looking for help with ML Data Gathering.
-- 💬 Ask me about C++, Javascript, Python, React, Cybersecurity, UI, UX, ML, AI, Excel df.
-- 📫 How to reach me: mabdullahcoding@gmail.com
-- ⚡ Fun fact: Lazy, to solve.
+💻 Software Engineer passionate about building scalable web applications, AI-powered solutions, and automation tools.
 
+- 🚀 Building with **MERN, Python, AI, and Cloud**
+- 🤖 Exploring **LLMs, RAG, Computer Vision & Intelligent Automation**
+- 🛠️ Projects: **VisionFit AI**, **Journal The Trade**, **Servify AI**, Browser Automation
+- 💬 Ask me about **JavaScript, Python, React, Node.js, MongoDB, Selenium & APIs**
+- 📫 Reach me: **mabdullahcoding@gmail.com**
